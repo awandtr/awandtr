@@ -1,4 +1,4 @@
-## Hi there 👋
+## This GitHub page is where I put my projects.
 
 <!--
 **awandtr/awandtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
